@@ -29,8 +29,8 @@
 
 ### Experience
 
-- Computer Science Tutor (Delaware State University - Present)
-- Technical Instructor Assistant (Code Differently)
+- Computer Science Tutor
+- Technical Instructor Assistant
 
 ### Ways to Connect to Me
 
