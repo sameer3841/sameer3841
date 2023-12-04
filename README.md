@@ -1,6 +1,6 @@
 ### Stats
 
-<table>
+<table style="border: none;">
    <tr>
       <td>
          <img alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula">         
