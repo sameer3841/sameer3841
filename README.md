@@ -27,6 +27,9 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 15px" src="Microsoft_Office_Access_(2019-present).svg.png" alt="Microsoft Access" height="50" />
+<img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" />
+<img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" />
 </div> 
 
 ### Experience
