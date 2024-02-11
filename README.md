@@ -30,12 +30,17 @@
 <img style="margin: 15px" src="Microsoft_Office_Access_(2019-present).svg.png" alt="Microsoft Access" height="50" />
 <img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" />
 <img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" />
+<img style="margin: 15px" src="Microsoft_Office_Word_(2019–present).svg.png" alt="Microsoft Word" height="50" />
 </div> 
 
 ### Experience
 
 - Computer Science Tutor
 - Technical Instructor Assistant
+
+### Certifications
+
+- Google UI/UX - Foundations of User Experience (UX) Design
 
 ### Ways to Connect to Me
 
