@@ -31,6 +31,7 @@
 <img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" />
 <img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" />
 <img style="margin: 15px" src="Microsoft_Office_Word_(2019–present).svg.png" alt="Microsoft Word" height="50" />
+<img style="margin: 15px" src="Pandas.png" alt="Pandas" height="50" /> 
 </div> 
 
 ### Experience
