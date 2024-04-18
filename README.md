@@ -54,7 +54,7 @@ style= "display: inline-block;">
 style="display: inline-block">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
-<a href="https://www.instagram.com.sameer0726/" target="_blank" style="display:inline-block;" >
+<a href="https://www.instagram.com/sameer0726/" target="_blank" style="display:inline-block;" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 
 </a>
