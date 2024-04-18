@@ -1,18 +1,11 @@
 ### Stats
 
-<table style="border-color: transparent;">
-   <tr>
-      <td>
-         <img alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-      <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" /></p>
-      </td>
-   </tr>
-</table>
+   <img alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> 
+
+   <img alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c">
+
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" /></p>
+
 
 ### Skills 
 
