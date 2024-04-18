@@ -8,6 +8,9 @@
       <td>
          <img alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c">
       </td>
+      <td>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" /></p>
+      </td>
    </tr>
 </table>
 
@@ -52,11 +55,16 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-patel-a1a21a250/" target="_blank"
 style= "display: inline-block;">
-<img src=LinkedIn-Logo-2019.png style= "width: 35%;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://www.github.com/sameer3841" target="_blank"
 style="display: inline-block">
-<img src=GitHub-logo.png style= "width: 35%;">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com.sameer0726/" target="_blank"
+style="display:inline-block">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+
 </a>
 </div>
 
