@@ -43,6 +43,9 @@
 ### Certifications
 
 - Google UI/UX - Foundations of User Experience (UX) Design
+- Google UI/UX - Start the UX Design Process: Empathize Define, and Ideate
+- Hackerrank - Python
+- Hackerrank - Java
 
 ### Ways to Connect to Me
 
