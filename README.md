@@ -55,15 +55,14 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-patel-a1a21a250/" target="_blank"
 style= "display: inline-block;">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
 <a href="https://www.github.com/sameer3841" target="_blank"
 style="display: inline-block">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
-<a href="https://www.instagram.com.sameer0726/" target="_blank"
-style="display:inline-block">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+<a href="https://www.instagram.com.sameer0726/" target="_blank" style="display:inline-block;" >
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 
 </a>
 </div>
