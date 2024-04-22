@@ -9,7 +9,7 @@
       </td>
    </tr>
 </table>
-   <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" /></p>
+   <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></p>
 
 
 ### Skills 
