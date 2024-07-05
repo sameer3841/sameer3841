@@ -45,8 +45,8 @@
 ### Certifications
 
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Google - User Experience Design Specialization</a>
-- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Hackerrank - Python</a>
-- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Hackerrank - Java</a>
+- <a href="https://www.hackerrank.com/certificates/bb4ab1aeb716" style="color: white">Hackerrank - Python</a>
+- <a href="https://www.hackerrank.com/certificates/923fb571d532" style="color: white">Hackerrank - Java</a>
 
 ### Ways to Connect to Me
 
