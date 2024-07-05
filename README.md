@@ -38,15 +38,15 @@
 
 ### Experience
 
-- Computer Science Tutor
-- Technical Instructor Assistant
+- <b>Computer Science Tutor</b> (Delaware State University)
+- <b>Technical Instructor Assistant</b> (Code Differently)
+- <b>Software Engineer Intern</b> (Dormshops)
 
 ### Certifications
 
-- Google UI/UX - Foundations of User Experience (UX) Design
-- Google UI/UX - Start the UX Design Process: Empathize Define, and Ideate
-- Hackerrank - Python
-- Hackerrank - Java
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Google - User Experience Design Specialization</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Hackerrank - Python</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Hackerrank - Java</a>
 
 ### Ways to Connect to Me
 
