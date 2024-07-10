@@ -15,25 +15,25 @@
 ### Skills 
 
 <div align="center">  
-<img style="margin: 15px" src="C_Programming_Language.svg.png" alt="C" height="50" /> 
-<img style="margin: 15px" src="React-icon.svg.png" alt="React" height="50" />
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-<img style="margin: 15px" src="Typescript_logo_2020.svg.png" alt="Typescript" height="50" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />   
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />   
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 15px" src="Microsoft_Office_Access_(2019-present).svg.png" alt="Microsoft Access" height="50" />
-<img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" />
-<img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" />
-<img style="margin: 15px" src="Microsoft_Office_Word_(2019–present).svg.png" alt="Microsoft Word" height="50" />
-<img style="margin: 15px" src="Pandas.png" alt="Pandas" height="50" /> 
+<img style="margin: 15px" src="C_Programming_Language.svg.png" alt="C" height="50" alt="C" title="C"/> 
+<img style="margin: 15px" src="React-icon.svg.png" alt="React" height="50" alt="React/React Native" title="React"/>
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" title="Cascading Style Sheet" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="Hypertext Markup Language" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" /> 
+<img style="margin: 15px" src="Typescript_logo_2020.svg.png" alt="Typescript" title="TypeScript" height="50" /> 
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" title="Django" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" title="Python" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" title="Figma" height="50" />   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" title="Raspberry Pi" height="50" />   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" title="Powershell" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title="Git"/>  
+<img style="margin: 15px" src="Microsoft_Office_Access_(2019-present).svg.png" alt="Microsoft Access" height="50" title="Microsoft Access"/>
+<img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" title="Microsoft Excel"/>
+<img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" title="Microsoft PowerPoint"/>
+<img style="margin: 15px" src="Microsoft_Office_Word_(2019–present).svg.png" alt="Microsoft Word" height="50" title="Microsoft Word"/>
+<img style="margin: 15px" src="Pandas.png" alt="Pandas" height="50" title="Pandas"/> 
 </div> 
 
 ### Experience
