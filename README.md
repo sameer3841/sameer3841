@@ -40,7 +40,7 @@
 
 - <b>Computer Science Tutor</b> (Delaware State University)
 - <b>Technical Instructor Assistant</b> (Code Differently)
-- <b>Software Engineer Intern</b> (Dormshops)
+- <b>Software Engineer Intern</b> (DormShops)
 
 ### Certifications
 
@@ -57,7 +57,7 @@
 <a href="https://www.github.com/sameer3841" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
-<a href="https://www.instagram.com/sameer0726/" target="_blank" >
+<a href="https://www.instagram.com/sameer0726/" target="_blank" style="display:inline-block; border-radius: 100px; margin: 10px;">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 
 </a>
