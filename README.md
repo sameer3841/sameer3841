@@ -48,7 +48,7 @@
 - <a href="https://www.hackerrank.com/certificates/bb4ab1aeb716" style="color: white">Hackerrank - Python</a>
 - <a href="https://www.hackerrank.com/certificates/923fb571d532" style="color: white">Hackerrank - Java</a>
 
-### Ways to Connect to Me
+### Ways to Connect with Me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-patel-a1a21a250/" target="_blank">
