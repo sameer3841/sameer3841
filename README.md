@@ -1,54 +1,91 @@
-### Stats
-<table style="border-color: transparent; margin-left: auto; margin-right: auto">
-   <tr>
-      <td>
-         <img alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> 
-      </td>
-      <td>
-         <img alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss">
-      </td>
-   </tr>
-</table>
+## Stats
+
+</br>
+   <p style="text-align: center;"><img align="center" alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> </p>
+
+   <p style="text-align: center;"><img align="center" alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss"></p>
+
    <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></p>
 
+</br>
 
-### Skills 
+## Skill  
+<table><tr><td valign="top" width="20%">
 
+### Frontend  
 <div align="center">  
-<img style="margin: 15px" src="C_Programming_Language.svg.png" alt="C" height="50" alt="C" title="C"/> 
-<img style="margin: 15px" src="React-icon.svg.png" alt="React" height="50" alt="React/React Native" title="React"/>
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" title="Cascading Style Sheet" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="Hypertext Markup Language" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" /> 
-<img style="margin: 15px" src="Typescript_logo_2020.svg.png" alt="Typescript" title="TypeScript" height="50" /> 
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" title="Django" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" title="Python" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" title="Figma" height="50" />   
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" title="Raspberry Pi" height="50" />   
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" title="Powershell" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title="Git"/>  
-<img style="margin: 15px" src="Microsoft_Office_Access_(2019-present).svg.png" alt="Microsoft Access" height="50" title="Microsoft Access"/>
-<img style="margin: 15px" src="Microsoft_Office_Excel_(2019–present).svg.png" alt="Microsoft Excel" height="50" title="Microsoft Excel"/>
-<img style="margin: 15px" src="Microsoft_Office_PowerPoint_(2019–present).svg.png" alt="Microsoft Powerpoint" height="50" title="Microsoft PowerPoint"/>
-<img style="margin: 15px" src="Microsoft_Office_Word_(2019–present).svg.png" alt="Microsoft Word" height="50" title="Microsoft Word"/>
-<img style="margin: 15px" src="Pandas.png" alt="Pandas" height="50" title="Pandas"/> 
-</div> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
 
-### Experience
+</td><td valign="top" width="20%">
+
+### Backend  
+<div align="center"> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
+</div>
+
+</td><td valign="top" width="20%">
+
+### Frameworks
+<div align="center">  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+
+
+</div>
+
+</td><td valign="top" width="20%">
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="20%">
+
+### Robotics
+<div align="center">  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+</div>
+
+</td></tr></table>  
+
+</br>
+
+## Experience
 
 - <b>Computer Science Tutor</b> (Delaware State University)
 - <b>Technical Instructor Assistant</b> (Code Differently)
 - <b>Software Engineer Intern</b> (DormShops)
 
-### Certifications
+</br>
+
+## Certifications
 
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Google - User Experience Design Specialization</a>
 - <a href="https://www.hackerrank.com/certificates/bb4ab1aeb716" style="color: white">Hackerrank - Python</a>
 - <a href="https://www.hackerrank.com/certificates/923fb571d532" style="color: white">Hackerrank - Java</a>
 
-### Ways to Connect with Me
+</br>
+
+## Ways to Connect with Me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-patel-a1a21a250/" target="_blank">
