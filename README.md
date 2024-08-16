@@ -14,15 +14,17 @@
    </table>
    </br>
 
-   
 
-</br>
    <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div>
 
 </br>
+</br>
+
 
 ## Skill  
-<table><tr><td valign="top" width="20%">
+</br>
+
+<table style="text-align: center"><tr><td valign="top" width="20%">
 
 ### Frontend  
 <div align="center">  
@@ -81,14 +83,20 @@
 </td></tr></table>  
 
 </br>
+</br>
+
 
 ## Experience
+</br>
+
 
 - <b>Computer Science Tutor</b> (Delaware State University)
 - <b>Technical Instructor Assistant</b> (Code Differently)
 - <b>Software Engineer Intern</b> (DormShops)
 
 </br>
+</br>
+
 
 ## Certifications
 
@@ -97,6 +105,8 @@
 - <a href="https://www.hackerrank.com/certificates/923fb571d532" style="color: white">Hackerrank - Java</a>
 
 </br>
+</br>
+
 
 ## Ways to Connect with Me
 
