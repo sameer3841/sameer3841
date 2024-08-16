@@ -1,11 +1,20 @@
 ## Stats
 
 </br>
-   <div align="center"><img align="center" alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> </div>
-
+<table style="border-color: transparent;" align="center">
+<tr>
+<td>
+   <div align="center"><img align="center" alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> </div></td>
+   <td>
+   
+   <div align="center" ><img style="width: 350px;" align="center" alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss"></div>
+   </td>
+   </tr>
+   </br>
+   </table>
    </br>
 
-   <div align="center"><img align="center" alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss"></div>
+   
 
 </br>
    <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div>
