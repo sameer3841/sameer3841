@@ -2,7 +2,7 @@
 
 
 
-<span style="display: inline-block; text-align: left; vertical-align: top;margin-top:20px;">
+<span style="display: inline-block; text-align: center; vertical-align: top;margin-top:20px;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=19000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
   </br>
