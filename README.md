@@ -1,9 +1,9 @@
 <p align="center">
 
 
-
-<span style="float: left; text-align: center; margin-top:20px;">
 </br>
+<span style="float: left; text-align: center; margin-top:20px;">
+
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=19000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=1000&center=true&color=7853F7&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
