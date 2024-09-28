@@ -9,8 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
   
         with:
           github_user_name: sameer3841
