@@ -1,3 +1,18 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1NTEwNTksIm5iZiI6MTcyNzU1MDc1OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDE5MTIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZWQ1MGJjYjBjZGY4NTQ4MTE5YzU3YWMxNDM2ZGY1NjBlZGRmZTY0NzYxMzRiOWM5MmQxOWQ4ZjBjYTBkYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.T7CC6irR8iJvgVyQNlgaTtpjeo-aVnkvUYWL_P4-Jgs">
+
+</br>
+</br>
+</br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=19000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
+  
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=1000&center=true&color=7853F7&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
+</p>
+
+
+
 ## Stats
 
 </br>
