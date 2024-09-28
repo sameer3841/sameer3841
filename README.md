@@ -19,7 +19,7 @@
 
    </br>
    </br>
-   <div align="center"><img align="center" src="github-user-contribution.svg" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div>
+   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sameer3841/sameer3841/output/github-contribution-grid-snake-dark.svg" />
 
 </br>
 </br>
