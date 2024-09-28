@@ -1,0 +1,27 @@
+name: Generate Snake
+
+# Controls when the action will run: daily at midnight
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at midnight daily
+  workflow_dispatch: # Allows you to manually trigger the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: sameer3841  # Your GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Upload the Snake SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-contribution-grid
+          path: dist/github-contribution-grid-snake.svg
