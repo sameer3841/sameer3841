@@ -29,3 +29,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Upload the Snake SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-contribution-grid
+          path: dist/github-contribution-grid-snake.svg
