@@ -1,23 +1,34 @@
-name: Generate Datas
+name: Generate Snake
+
+# Controls when the action will run (daily at midnight) or manually via workflow_dispatch
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # This runs daily at midnight (UTC)
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-  
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Step 2: Create the output directory for the snake.svg file
+      - name: Create output directory
+        run: mkdir -p dist
+
+      # Step 3: Generate the Snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
         with:
-          github_user_name: sameer3841
+          github_user_name: sameer3841  # Replace this with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      # Step 4: Upload the Snake SVG file as an artifact (optional step to store the SVG file)
+      - name: Upload the Snake SVG
+        uses: actions/upload-artifact@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: snake-contribution-grid
+          path: dist/github-contribution-grid-snake.svg
