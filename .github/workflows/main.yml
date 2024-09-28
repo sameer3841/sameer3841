@@ -17,9 +17,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # Debugging: Print the GitHub User Name
-      - name: Debug Github User Name
-        run: echo "GitHub Username: sameer3841"
 
       # Generate the contribution snake animation
       - name: Generate Snake Animation
