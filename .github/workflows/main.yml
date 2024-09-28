@@ -1,17 +1,15 @@
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
+# This action runs every 6 hours.
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
 
-  # Allows manual triggering of the workflow from the GitHub Actions tab.
+  # Allows manual triggering of the workflow.
   workflow_dispatch:
 
 jobs:
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     steps:
@@ -19,30 +17,31 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # Generate the contribution snake
+      # Generate the contribution snake animation
       - name: Generate Snake Animation
+        id: snake-gif
         uses: Platane/snk@v2.2.1
         with:
-          github_user_name: sameer3841
+          github_user_name: sameer3841  # Make sure this value is passed correctly
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build (for debugging purposes)
+      # Check git status for debugging
       - name: Git Status
         run: git status
 
-      # Commit and push the generated files
+      # Push changes to the repository
       - name: Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Ensure the branch is set to "output" where the files are generated
+          branch: output  # Ensure that this matches where you're pushing changes
           force: true
 
-      # Deploy the generated files to GitHub Pages
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: gh-pages  # Ensure you're deploying to the correct branch
+          publish_branch: gh-pages
