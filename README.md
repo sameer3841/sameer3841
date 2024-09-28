@@ -15,7 +15,7 @@
    </br>
 
 
-   <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div>
+   <!-- <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div> -->
 
    </br>
    </br>
