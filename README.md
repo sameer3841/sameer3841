@@ -8,13 +8,23 @@ style="width:70%;"/> -->
 </br>
 </br>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=10000000000000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=1000&center=true&color=7853F7&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
-</p>
+<table>
+  <tr>
+    <!-- First column: Typing SVGs -->
+    <td width="45%" align="center">
+      <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=10000000000000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
+      </p>
+      <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=1000&center=true&color=ec2ff3&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
+      </p>
+    </td>
+    <!-- Second column: GIF -->
+    <td width="55%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" style="width:100%"/>
+    </td>
+  </tr>
+</table>
 <div style="clear: both;"></div>
 </br>
 </br>
