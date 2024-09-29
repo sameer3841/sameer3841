@@ -54,8 +54,9 @@ style="width:70%;"/> -->
 
    </br>
    </br>
+   <div align="center">
    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sameer3841/sameer3841/output/github-contribution-grid-snake-dark.svg" />
-
+</div>
 </br>
 </br>
 
@@ -67,15 +68,13 @@ style="width:70%;"/> -->
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://colorlib.com/" target="_blank"><img style="margin: 10px" src="colorlib.png" alt="Bootstrap" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="kotlin.svg" alt="Kotlin" height="50" /></a>
-<a href="https://godotengine.org/" target="_blank"><img style="margin: 10px" src="godot.png" alt="Godot" height="50" /></a>   
+<a href="https://www.swift.org/" target="_blank"><img style="margin: 10px" src="Swift.png" alt="Swift" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="20%">
@@ -121,8 +120,18 @@ style="width:70%;"/> -->
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 </div>
 
-</td></tr></table> 
+</td>
 
+</tr>
+</table> 
+
+### Other
+<div>
+<img style="margin: 15px" src="godot.png" alt="Godot" height="50" />  
+<img style="margin: 15px" src="Pandas.png" alt="Arduino" height="50" />
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://colorlib.com/" target="_blank"><img style="margin: 10px" src="colorlib.png" alt="Bootstrap" height="50" /></a>
+</div>
 
 </br>
 </br>
@@ -162,6 +171,10 @@ style="width:70%;"/> -->
 <a href="https://www.instagram.com/sameer0726/" target="_blank" style="display:inline-block; border-radius: 100px; margin: 10px;">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 
+</a>
+
+<a href="https://sameer3841.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" title="Portfolio"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
 </div>
 
