@@ -8,7 +8,7 @@ style="width:70%;"/>
 </br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=19000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=10000000000000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
 </p>
 </br>
 <p align="center">
