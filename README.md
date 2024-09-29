@@ -13,10 +13,10 @@ style="width:70%;"/> -->
     <!-- First column: Typing SVGs -->
     <td width="45%" align="center">
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=10000000000000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&pause=10000000000000&duration=1000&color=19CCFF&center=true&width=380&height=50&lines=Hi!+I'm+Sameer" alt="Typing SVG" />
       </p>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=1000&center=true&color=ec2ff3&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=18&pause=3000&duration=2500&center=true&color=ec2ff3&width=380&lines=Software+Development;Data+Science;Game+Development;UX+Design" alt="Typing SVG" />
       </p>
     </td>
     <!-- Second column: GIF -->
