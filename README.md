@@ -131,6 +131,7 @@ style="width:70%;"/> -->
 <img style="margin: 15px" src="Pandas.png" alt="Arduino" height="50" />
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://colorlib.com/" target="_blank"><img style="margin: 10px" src="colorlib.png" alt="Bootstrap" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </br>
