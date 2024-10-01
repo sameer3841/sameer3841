@@ -158,6 +158,8 @@ style="width:70%;"/> -->
 
 ## Certifications
 
+</br>
+
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/8Y3XBW4Q2JHT" style="color: white">Google - User Experience Design Specialization</a>
 - <a href="https://www.hackerrank.com/certificates/bb4ab1aeb716" style="color: white">Hackerrank - Python</a>
 - <a href="https://www.hackerrank.com/certificates/923fb571d532" style="color: white">Hackerrank - Java</a>
@@ -167,7 +169,7 @@ style="width:70%;"/> -->
 
 
 ## Ways to Connect with Me
-
+<br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/sameer-patel-a1a21a250/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
@@ -177,19 +179,18 @@ style="width:70%;"/> -->
 </a>
 <a href="https://www.instagram.com/sameer0726/" target="_blank" style="display:inline-block; border-radius: 100px; margin: 10px;">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
-
 </a>
 
 <a href="https://sameer3841.github.io" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" title="Portfolio"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
-</div>
+<a href="https://www.buymeacoffee.com/sameerpated" target="_blank" style = "display: inline-block;">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
+</a>
 
+</div>
+<br/>
 <div align="center">
-      <a href="https://www.buymeacoffee.com/sameerpated" target="_blank" style = "display: inline-block;">
-              <img
-                   src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                   />
+      
 <img src="https://komarev.com/ghpvc/?username=sameerpated&&style=flat-square" align="center" /></div>
 
