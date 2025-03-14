@@ -167,6 +167,7 @@ style="width:70%;"/> -->
 - <b>Technical Instructor Assistant</b> (Code Differently)
 - <b>Software Engineer Intern</b> (DormShops)
 - <b>Undergraduate Research Assistant</b> (Howard University (RITA UARC))
+- <b>Research Assistant</b> (Delaware State University)
 
 </br>
 </br>
