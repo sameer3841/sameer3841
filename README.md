@@ -42,7 +42,7 @@ style="width:70%;"/> -->
    <div align="center"><img align="center" alt="Saunak Patel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sameer3841&show_icons=true&theme=dracula"> </div></td>
    <td>
    
-   <div align="center" ><img style="width: 350px;" align="center" alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss,css"></div>
+   <div align="center" ><img style="width: 350px;" align="center" alt="Saunak Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer3841&layout=compact&theme=dracula&hide=roff,tsql,c,scss,css,makefile"></div>
    </td>
    </tr>
    </br>
