@@ -173,6 +173,7 @@ style="width:70%;"/> -->
 - <b>Software Engineer Intern</b> (DormShops)
 - <b>Undergraduate Research Assistant</b> (Howard University (RITA UARC))
 - <b>Research Assistant</b> (Delaware State University)
+- <b>Software Engineer</b> (LexisNexis Risk Solutions)
 
 </br>
 </br>
