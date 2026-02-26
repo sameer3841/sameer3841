@@ -35,7 +35,7 @@ style="width:70%;"/> -->
 
 ## Stats
 
-</br>
+<!-- </br>
 <table style="border-color: transparent;" align="center">
 <tr>
 <td>
@@ -47,7 +47,7 @@ style="width:70%;"/> -->
    </tr>
    </br>
    </table>
-   </br>
+   </br> -->
 
 
    <!-- <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3841&theme=dracula&" alt="sameer3841" style="margin-left: auto; margin-right: auto"/></div> -->
