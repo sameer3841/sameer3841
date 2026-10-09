@@ -214,7 +214,7 @@ style="width:70%;"/> -->
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
 
-<a href="https://sameer3841.github.io" target="_blank">
+<a href="https://saunakpatel.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" title="Portfolio"  alt="GitHub" style="display:inline-block; border-radius: 100px; margin: 10px;"/>
 </a>
 <a href="https://www.buymeacoffee.com/sameerpated" target="_blank" style = "display: inline-block;">
